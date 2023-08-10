@@ -1,0 +1,4 @@
+-  Hi, I’m @edellea
+-  I’m interested in climate science research through remote sensing.
+-  I’m currently working on a project that investigates the climate change impacts on the biological processes in Disko Bay, West Greenland.
+-  I shared my code in alignment with NASA's year of open science.
